@@ -1,0 +1,13 @@
+.site-container {
+    width: 960px;
+}
+
+.nav, ul, li {
+    display: inline;
+    float: left;
+}
+
+.self-portrait {
+    width: 200px;
+    border-radius: 10px;
+}
